@@ -1,2 +1,2 @@
 # weather
-My weather project
+My Weather project
